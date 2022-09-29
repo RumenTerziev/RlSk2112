@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RlSk2112
 - 👀 I’m interested in programming and sport :)
-- 🌱 I’m currently learning java fundamentals
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning java advanced
+
 
 <!---
 RlSk2112/RlSk2112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
